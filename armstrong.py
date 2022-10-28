@@ -1,4 +1,4 @@
-#Changes are done this time
+#sanskar 
 def armstrong(number):
     sumofnum=0
     while(number>0):
