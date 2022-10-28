@@ -1,3 +1,4 @@
+#Changes are done this time
 def armstrong(number):
     sumofnum=0
     while(number>0):
