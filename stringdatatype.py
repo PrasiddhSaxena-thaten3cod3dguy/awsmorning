@@ -21,16 +21,21 @@
 
 
 #String Formatting
-name="Mitali"
+# name="Mitali"
 
-fullname=f"Hello {name}"
+# fullname=f"Hello {name}"
 
-print(fullname)
+# print(fullname)
 
-#MultipleLine inside a string variable
+# #MultipleLine inside a string variable
 
-multilinestring='''Hello im a rapper
-looking like a dapper
-im a part time snapper  
-'''
-print(multilinestring)
+# multilinestring='''Hello im a rapper
+# looking like a dapper
+# im a part time snapper  
+# '''
+# print(multilinestring)
+
+string1="Hi My name is Prasiddh"
+result=string1.split()
+
+print(result)

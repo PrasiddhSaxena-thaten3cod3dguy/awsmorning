@@ -4,7 +4,7 @@ num3=0
 if num2 > num1:
     print("Num2 is bigger")
 elif num3>num2:
-    print("Num3 is bigger")
+    print("Num3 is bigger")   #This Line should be printed
 else:
     print("Num1 is bigger")
 
