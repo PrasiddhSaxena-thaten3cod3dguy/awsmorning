@@ -1,0 +1,5 @@
+[2022-11-02 10:33:14,867:DEBUG:just a debug message in line 9
+[2022-11-02 10:33:14,867:INFO:This is just for your FYI
+[2022-11-02 10:33:14,867:WARNING:This is my last warning before everthing goes bad
+[2022-11-02 10:33:14,867:ERROR:This is an error at Line 12
+[2022-11-02 10:33:14,867:CRITICAL:Your weekend is ruined by line 13
